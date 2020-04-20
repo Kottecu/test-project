@@ -719,13 +719,16 @@ exch1:hover {
 }
 
 .foremail {
-    width: 21px;
-    height: 17px;
+    width: 45px;
+    height: 44px;
     color: #6c6c6c;
     float: right;
-    padding-right: 14px;
-    padding-top: 14px;
+    text-align: center;
+    margin-top: px;
+    
 }
+
+
 
 .fcopyspace {
     width: 1366px;

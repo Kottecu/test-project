@@ -1118,15 +1118,19 @@ exch1:hover {
     color: #ffffff;
     text-decoration: none;
     margin-left: -5px;
-    padding-top: 27px;
     margin-top: 31px;
+    position: relative;
 }
 
 .butt22 {
     color: #ffffff;
     text-transform: uppercase;
+    position: absolute;
+    margin-left: -90px;
+    margin-top: 20px;
 
 }
+
 
 .butt22:hover {
     text-decoration: none;
